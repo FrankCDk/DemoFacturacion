@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\Proyectos Github\\DemoFacturacion\\DemoFacturacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38898D73-07A2-453F-84ED-ECD00561634B}|DemoFacturacion\\DemoFacturacion.csproj|d:\\programacion\\proyectos github\\demofacturacion\\demofacturacion\\demofacturacion\\views\\facturacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38898D73-07A2-453F-84ED-ECD00561634B}|DemoFacturacion\\DemoFacturacion.csproj|solutionrelative:demofacturacion\\views\\facturacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38898D73-07A2-453F-84ED-ECD00561634B}|DemoFacturacion\\DemoFacturacion.csproj|d:\\programacion\\proyectos github\\demofacturacion\\demofacturacion\\demofacturacion\\wwwroot\\js\\facturacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38898D73-07A2-453F-84ED-ECD00561634B}|DemoFacturacion\\DemoFacturacion.csproj|solutionrelative:demofacturacion\\wwwroot\\js\\facturacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\Proyectos Github\\DemoFacturacion\\DemoFacturacion\\DemoFacturacion\\Views\\Facturacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoFacturacion\\Views\\Facturacion\\Index.cshtml",
+              "ToolTip": "D:\\Programacion\\Proyectos Github\\DemoFacturacion\\DemoFacturacion\\DemoFacturacion\\Views\\Facturacion\\Index.cshtml",
+              "RelativeToolTip": "DemoFacturacion\\Views\\Facturacion\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T01:21:47.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Facturacion.js",
+              "DocumentMoniker": "D:\\Programacion\\Proyectos Github\\DemoFacturacion\\DemoFacturacion\\DemoFacturacion\\wwwroot\\js\\Facturacion.js",
+              "RelativeDocumentMoniker": "DemoFacturacion\\wwwroot\\js\\Facturacion.js",
+              "ToolTip": "D:\\Programacion\\Proyectos Github\\DemoFacturacion\\DemoFacturacion\\DemoFacturacion\\wwwroot\\js\\Facturacion.js",
+              "RelativeToolTip": "DemoFacturacion\\wwwroot\\js\\Facturacion.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-25T01:21:30.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

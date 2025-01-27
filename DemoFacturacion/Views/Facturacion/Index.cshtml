@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<script src="~/js/Facturacion.js"></script>
+<style>
+    .modal-backdrop {
+        background-color: transparent !important; /* Cambia el color del fondo */
+        backdrop-filter: blur(20px);
+        opacity: 1 !important; /* Máxima opacidad */
+    }
+
+</style>
+
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Launch static backdrop modal
+</button>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">SELECCIONE UNA FACTURACIÓN</h1>
+            </div>
+            <div class="modal-body d-flex flex-wrap">
+
+
+                <button class="btn btn-primary col-12 mb-3 btn-click">
+                    Facturación Estandar
+                </button>
+
+                <button class="btn btn-primary col-12 mb-3 btn-click">
+                    Facturación contra Guia
+                </button>
+
+                <button class="btn btn-primary col-12 mb-3 btn-click">
+                    Facturación contra Pedido
+                </button>
+             
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary">
+                    Retornar a Dashboard Principal
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
